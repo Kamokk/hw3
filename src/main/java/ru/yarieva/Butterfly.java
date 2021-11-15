@@ -1,6 +1,6 @@
 package ru.yarieva;
 
-public class Butterfly  extends Bug {
+public class Butterfly extends Bug {
 
 
     public Butterfly(String name, int size, String color) {
